@@ -2,13 +2,17 @@
 
 
 <br>
-It allows the users to view various posts on the home page of the website and also post some refreshing content about the booming technologies and computer science subjects. Features like register, update user profile, upload profile picture, login, logout, create new post, update and delete the existing post is available on this website. Note- Users can update and delete only their own posts. You can only post after creating an account.
+It allows the users to view various posts on the home page of the website and also post some refreshing content about the booming technologies and computer science subjects. 
+<br>
+Features like register, update user profile, upload profile picture, login, logout, create new post, update and delete the existing post is available on this website. 
+
+Note- Users can update and delete only their own posts. Users can only post after creating an account.
 <br>
 
 <br>
 <pre>
 TECH USED
-Frontend - HTML, CSS and Bootstrap
+Frontend - HTML, CSS, React.js and Bootstrap
 Backend - Node.js, Express.js
 Database Used- MongoDB
 </pre>
